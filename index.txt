@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<style type="text/css">
+ body {
+  padding-left: 11em;
+  background-image: url("https://pixy.org/download/455593/");
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+
+ img {
+    border: 3px solid navy;
+   }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+} 
+
+
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;
+  color: purple;
+  font-size: 150%;
+  font-weight: 800;
+margin-top: 5%;
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+  font-size: 120%;
+  font-weight: 300;
+}
+
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: blue }
+a:visited {
+  color: purple }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
+
+
+</style>
+</head>
+
+<body>
+
+
+<ul class="navbar">
+  <li><a href="index.html">About me</a>
+  <li><a href="hobbies.html">My hobbies</a>
+<li><a href="awards.html">My awards</a>
+  <li><a href="links.html">Links</a>
+</ul>
+
+<h1 align="center"
+<h1>About me</h1>
+
+
+  <img src="https://sun9-13.userapi.com/impg/EodODXKPM24fCmPKrZwjN-Fc3ajmveDejfkGEg/3Is2Z8E37JI.jpg?size=2160x2160&quality=96&sign=de1c788a346fbff729e4e4cf452c8598&type=album" class="center"  >
+
+
+<p align="center"
+<p>I'm 17 years old. I was born in the city of Kokshetau, but from the age of three until graduation I live in Karaganda. Сurrently a first-year student at Astana IT University.
+<p align="center"
+<p>If talk about my family, we are three children. I have an older brother and a little brother. The elder brother is studying for a master's degree and the younger brother is 4 years old.
+
+
+</address>
+
+</body>
+</html>
